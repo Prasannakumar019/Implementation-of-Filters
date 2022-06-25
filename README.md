@@ -180,7 +180,5 @@ i) Using Laplacian Kernal
 ii) Using Laplacian Operator
 
 ![Screenshot (312)](https://user-images.githubusercontent.com/75235090/167667862-48da57bf-ad1e-4e28-8853-65d80efbe923.png)
-
-
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
